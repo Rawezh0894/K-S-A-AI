@@ -1,0 +1,1 @@
+# kurdish-sentiment-analysis-byAI
